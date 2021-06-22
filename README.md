@@ -3,6 +3,8 @@ My name is Cleiton Kiper from Brazil 🇧🇷 . I have been working as a Full-St
 
 In my free time I like listen to music 🎵 , watch movies and series 📺  and eventually I like to philosophize about life with beer 🍺.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleiton-d&show_icons=true)
+
 Would you like to meet me?
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cleitonkioper)](https://twitter.com/cleitonkiper)
